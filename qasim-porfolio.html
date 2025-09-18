@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Qasim Bukharie | Virtual Assistant</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+  <!-- Header -->
+  <header class="bg-indigo-600 text-white py-6 shadow-md">
+    <div class="container mx-auto text-center">
+      <h1 class="text-3xl font-bold">Qasim Bukharie</h1>
+      <p class="text-lg">Freelancer Virtual Assistant | IT Support | Admin Assistant</p>
+      <div class="mt-2">
+        <a href="mailto:qasimbukharie003@gmail.com" class="underline">qasimbukharie003@gmail.com</a> | 
+        <span>0999-0126-985</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- About -->
+  <section class="container mx-auto px-6 py-12 text-center">
+    <h2 class="text-2xl font-bold mb-4">About Me</h2>
+    <p class="max-w-2xl mx-auto text-lg leading-relaxed">
+      I am an experienced Virtual Assistant with a background as an IT Support Technician and Administrative Specialist. 
+      I help businesses stay organized, manage records, handle communication, and improve processes. 
+      I’m detail-oriented, reliable, and committed to delivering quality support remotely.
+    </p>
+  </section>
+
+  <!-- Skills -->
+  <section class="bg-white py-12 shadow-inner">
+    <div class="container mx-auto px-6">
+      <h2 class="text-2xl font-bold text-center mb-6">Skills</h2>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 text-center">
+        <div class="p-4 border rounded-xl shadow-sm">Database Entry</div>
+        <div class="p-4 border rounded-xl shadow-sm">Microsoft Office Suite</div>
+        <div class="p-4 border rounded-xl shadow-sm">Database Administration</div>
+        <div class="p-4 border rounded-xl shadow-sm">Process Improvement</div>
+        <div class="p-4 border rounded-xl shadow-sm">Customer Communication</div>
+        <div class="p-4 border rounded-xl shadow-sm">Office Coordination</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Experience -->
+  <section class="container mx-auto px-6 py-12">
+    <h2 class="text-2xl font-bold text-center mb-6">Work Experience</h2>
+    <div class="space-y-6 max-w-3xl mx-auto">
+      <div class="p-6 border rounded-xl shadow-sm bg-gray-100">
+        <h3 class="text-xl font-semibold">Administrative Specialist</h3>
+        <p class="text-sm text-gray-600">City Government of Las Piñas | Jul 2017 – Jul 2025</p>
+        <p class="mt-2">Managed records, handled customer communication, coordinated mail, and maintained office organization including supplies and filing systems.</p>
+      </div>
+      <div class="p-6 border rounded-xl shadow-sm bg-gray-100">
+        <h3 class="text-xl font-semibold">IT Support Technician / Admin Assistant</h3>
+        <p class="text-sm text-gray-600">Freelance & Contract Roles</p>
+        <p class="mt-2">Troubleshot technical issues, supported office operations, and improved workflows for efficiency and accuracy.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Awards -->
+  <section class="bg-indigo-50 py-12">
+    <div class="container mx-auto px-6 text-center">
+      <h2 class="text-2xl font-bold mb-6">Awards</h2>
+      <ul class="space-y-2 text-lg">
+        <li>🏆 Robinsons Satellite Ambassador Award, 2024</li>
+        <li>🏆 Got That Extra Mile Award, 2024</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section class="container mx-auto px-6 py-12 text-center">
+    <h2 class="text-2xl font-bold mb-4">Let’s Work Together</h2>
+    <p class="mb-6">Looking for a reliable Virtual Assistant? Let’s connect!</p>
+    <a href="mailto:qasimbukharie003@gmail.com" class="bg-indigo-600 text-white px-6 py-3 rounded-xl shadow hover:bg-indigo-700">Hire Me</a>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-gray-800 text-white py-6 text-center">
+    <p>&copy; 2025 Qasim Bukharie. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
